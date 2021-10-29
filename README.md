@@ -31,14 +31,4 @@ Arduino
  
 
 
-														
-
-
 							
-									Components Required
-
-Arduino Uno
-ESP8266 WiFi Module
-DHT11 Sensor
-Breadboard
-Jumper Wires
